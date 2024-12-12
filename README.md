@@ -7,7 +7,6 @@ The model is capable of solving equations of any degree (linear, quadratic, cubi
 An accuracy of **0.9827** is achieved with loss function as 0.0656 for recognition
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59358031/124664638-61785180-dec9-11eb-8ea8-0cd4f5a73ebe.gif)
 
 # Dataset Description
 The dataset is downloaded from Kaggle “Handwritten Math Symbol Dataset”.The dataset consists of over 1,00,000 images of many Mathematical symbols and digits. Only 0 to 9 digits  ‘+’, ‘-’ and ‘x’ are used in the project which estimates around 47,000 images. Each image is of size 45x45 and the image format id JPG.
